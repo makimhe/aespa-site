@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estylo.css">
+    <title>aespa wiki</title>
+</head>
+
+<body>
+    <header>
+        
+      <nav>
+             <div>
+                    <ul>
+                        <li><a href="index.html" class="btn">Aespa</a></li>
+                        <li><a href="karina.html" class="btn">Karina</a></li>
+                        <li><a href="giselle.html" class="btn">Giselle</a></li>
+                        <li><a href="winter.html" class="btn">Winter</a></li>
+                        <li><a href="ningning.html" class="btn">Ningning</a></li>
+                    </ul>
+                </nav>
+                
+         </nav>
+        <h1>WINTER</h1>
+    
+    </header>
+    <main>
+        <div class="meio">
+            <p>Kim Min-jeong conhecida profissionalmente como Winter é uma cantora e dançarina sul-coreana. Ela é integrante do girl group sul-coreano Aespa. <br>
+            Kim Min-jeong nasceu em 1 de janeiro de 2001, em Nampo-dong, Busan, Coreia do Sul, mas passou a infância em Yangsan, Gyeongsang do Sul. Ela nasceu em uma família militar com seu pai, irmão mais velho e vários parentes, todos militares. Devido a isso, ela inicialmente sonhava em se tornar um soldado. <br>
+            Winter foi treinada vocalmente pelos treinadores vocais internos da SM Entertainment, incluindo Yoo Young-jin, que foi produtor de longa data da agência antes de sua saída em 2023. Ela também foi aluna de Waackxxxy, uma dançarina sul-coreana especializada em waacking.
+            </p>
+             <img src="eeabcaa5d98f764a23c66cc1a30bb211.gif" alt="" class="winter">
+        </div>
+        
+      
+    </main>
+   
+    </main>
+    <footer>
+    </footer>
+        
+</body>
+</html>
