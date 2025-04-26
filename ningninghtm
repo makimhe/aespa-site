@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="istilo.css">
+    <title>aespa wiki</title>
+</head>
+
+<body>
+    <header>
+        
+      <nav>
+             <div>
+                    <ul>
+                        <li><a href="index.html" class="btn">Aespa</a></li>
+                        <li><a href="karina.html" class="btn">Karina</a></li>
+                        <li><a href="giselle.html" class="btn">Giselle</a></li>
+                        <li><a href="winter.html" class="btn">Winter</a></li>
+                        <li><a href="ningning.html" class="btn">Ningning</a></li>
+                    </ul>
+                </nav>
+                
+         </nav>
+        <h1>NINGNING</h1>
+    
+    </header>
+    <main>
+        <div class="meio">
+            <p>Ning Yizhuo conhecida profissionalmente como Ningning, é uma cantora chinesa baseada na Coreia do Sul. <br>Ningning nasceu como Ning Yizhuo em 23 de outubro de 2002, em Harbin, China. Ela frequentou a Harbin Normal University Middle School e a Beijing Contemporary Music Academy, graduando-se em ambas. <br>
+            Ningning foi observada pela SM Entertainment após sua aparição no programa de TV chinês Let's Sing Kids. Mais tarde, ela foi apresentada como membro da equipe de treinamento de pré-estreia SM Rookies em 19 de setembro de 2016. Como parte da equipe, ela apareceu no segmento Rookies Princess: Who's the Best? do programa My SMT naquele ano, e gravou vários covers para o programa de TV animado coreano Shining Star em 2017.
+            </p>
+             <img src="0f0d90e8cdad374a12f056a767fb5670.gif" alt="" class="ningning">
+        </div>
+        
+      
+    </main>
+    <footer>
+    </footer>
+        
+</body>
+</html>
