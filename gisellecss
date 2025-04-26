@@ -1,0 +1,142 @@
+/* Estilo geral */
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("d31c6f6298e02ca112691f621a978156.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Estilo do cabeçalho */
+header {
+   
+    width: 100%;  /* Ocupa toda a altura da tela */
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+/* Esconde a tag <img> do HTML, caso ainda esteja presente */
+header img {
+    display: none;
+}
+
+/* Estilo do título */
+h1 {
+    font-size: 250%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(255, 0, 0);
+    display: inline-block; /* Garante que o botão fique alinhado ao texto */
+    font-family: "Times New Roman', Times, serif"
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Espaçamento entre os botões */
+    
+}
+
+nav ul li {
+    display: inline;
+    color: aliceblue;
+}
+
+nav ul li .btn {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 7px 10px;
+    color: white;
+    background-color: rgba(105, 105, 105, 0.8); /* Fundo vermelho com opacidade */
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Transição suave */
+    
+}
+
+nav ul li .btn:hover {
+    background-color: rgb(255, 0, 0); /* Fundo vermelho sólido ao passar o mouse */
+    transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
+}
+
+/* Estilo do menu de navegação */
+nav {
+    font-size: x-large;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 17%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+/* Estilo dos parágrafos */
+p {
+    color: blanchedalmond;
+    font-size: 90%;
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    line-height: 1.5;
+}
+
+main{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.meio{
+    
+        background-color: rgba(209, 207, 207, 0.445);
+        border-radius: 15px;
+        color: aliceblue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        width: 70%;
+        text-align: center;
+        background-color: rgba(34, 34, 34, 0.5);
+        backdrop-filter: blur(5px);
+}
+
+.gisele{
+    width: 30%;
+    border-radius: 10px;
+    
+}
