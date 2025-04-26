@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>aespa wiki</title>
+</head>
+
+<body>
+    <header>
+        
+      <nav>
+             <div>
+                    <ul>
+                        <li><a href="index.html" class="btn">Aespa</a></li>
+                        <li><a href="karina.html" class="btn">Karina</a></li>
+                        <li><a href="giselle.html" class="btn">Giselle</a></li>
+                        <li><a href="winter.html" class="btn">Winter</a></li>
+                        <li><a href="ningning.html" class="btn">Ningning</a></li>
+                    </ul>
+                </nav>
+                
+         </nav>
+        <h1>GISELLE</h1>
+    
+    </header>
+    <main>
+        <div class="meio">
+            <p>Aeri Uchinaga em 30 de outubro de 2000, conhecida profissionalmente como Giselle, é uma cantora, compositora e rapper japonesa baseada na Coreia do Sul. Ela é integrante do girl group sul-coreano Aespa, formado pela SM Entertainment em 17 de novembro de 2020. <br>
+                Giselle nasceu em Gangnam-gu, Seul, Coreia do Sul, filha de mãe coreana e pai japonês, e cresceu em Tóquio, Japão. Ela é fluente em japonês, coreano e inglês.
+
+                Ela frequentou a Escola Internacional de Tóquio e a Escola Internacional do Sagrado Coração, onde foi apresentada ao K-pop em seu segundo ano do ensino médio. Mais tarde, ela retornou à Coreia após a formatura para fazer um teste para a SM Entertainment e passou nas audições de sábado da empresa após 4 tentativas.</p>
+             <img src="2f607f6e4422687d035ad956cbf049cd (1).gif" alt="" class="gisele">
+        </div>
+        
+      
+    </main>
+    <footer>
+    </footer>
+        
+</body>
+</html>
