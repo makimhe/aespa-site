@@ -36,7 +36,7 @@ h1 {
     transform: translateX(-50%) translateY(-50%);
     color: rgb(255, 0, 0);
     display: inline-block; /* Garante que o botão fique alinhado ao texto */
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:"Times New Roman', Times, serif"
 }
 
 nav ul {
